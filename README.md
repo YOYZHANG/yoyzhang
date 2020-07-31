@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ⚡ Fun: 
-- 🌱 douban: https://www.douban.com/people/184256425/
+- douban: https://www.douban.com/people/184256425/
+- dribble: https://dribbble.com/alexuzhang
 
 
 📫 How to reach me: 
