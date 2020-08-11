@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yoyzhang/count.svg" />
+  <img src="https://profile-counter.glitch.me/YOYZHANG/count.svg" />
 </p>
 
 
