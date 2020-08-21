@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/YOYZHANG/count.svg" />
-</p>
+<img src="https://b.bdstatic.com/searchbox/icms/searchbox/img/7e8e8.jpg" alt="Hello">
 
 
