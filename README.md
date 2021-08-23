@@ -5,4 +5,3 @@
 2. TS 编译原理 just see
 3. 打包工具 依赖分析原理；tapable机制 a little interest
 
-welcome to join us.
