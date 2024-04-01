@@ -6,5 +6,5 @@ I'm Xiaoqian Zhang.
 - 🎃 Focus on bundling tools (Vite, Esbuild, Webpack, etc.) and performance optimization.
 - 🍣 I am actively learning vite
 
-More details on [beanzhang](https://zhangxiaoqian.me). My Resume is [here](https://resume.zhangxiaoqian.me)
+More details on [beanzhang](https://zhangxiaoqian.me). My Resume is [here](https://resume.zhangxiaoqian.me).
 
